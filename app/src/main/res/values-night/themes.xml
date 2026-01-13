@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FocusLock" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/focus_primary</item>
+        <item name="colorPrimaryDark">@color/focus_primary_dark</item>
+        <item name="colorAccent">@color/focus_accent</item>
+    </style>
+</resources>

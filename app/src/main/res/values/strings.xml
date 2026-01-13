@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Focus Lock</string>
+
+    <string name="accessibility_service_description">
+        Focus Lock monitors which apps you use and automatically closes distracting apps (like Instagram and YouTube) after 20 seconds.\n\n
+        This service is essential for Focus Lock to work. It does not collect or share any data.\n\n
+        Required permissions:\n
+        • Monitor app usage\n
+        • Perform gestures (to go to home screen)\n
+        • Observe your actions (to detect app changes)
+    </string>
+
+    <string name="device_admin_description">
+        Focus Lock uses Device Admin to prevent easy uninstallation during weak moments. This is the "nuclear option" that makes the app harder to bypass.
+    </string>
+</resources>
