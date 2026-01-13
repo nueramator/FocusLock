@@ -33,7 +33,7 @@ Focus Lock is an Android app that makes distracting apps (Instagram, YouTube, et
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/FocusLock.git
+   git clone https://github.com/nueramator/FocusLock.git
    cd FocusLock
    ```
 
